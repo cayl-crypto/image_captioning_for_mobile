@@ -1,0 +1,16 @@
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+pip install torchtext
+pip install timm
+pip install tqdm
+pip install torchinfo
+pip install torch-tb-profiler
+pip install tensorboard
+conda install pycocotools -c conda-forge
+pip install pycocoevalcap
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_sm
+
+
+# requirement for SPICE Metric (Ubuntu Terminal)
+sudo apt install openjdk-8-jdk

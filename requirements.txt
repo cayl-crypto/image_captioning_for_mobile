@@ -1,0 +1,89 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1623774798911/work
+aiohttp @ file:///home/conda/feedstock_root/build_artifacts/aiohttp_1623682242746/work
+async-timeout==3.0.1
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+backports.entry-points-selectable==1.1.0
+blinker==1.4
+blis==0.7.4
+brotlipy==0.7.0
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1619593780156/work
+catalogue==2.0.6
+certifi==2021.5.30
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1625835287197/work
+chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1610093477613/work
+charset-normalizer==2.0.4
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1621503698523/work
+contextvars==2.4
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851478720/work
+cycler==0.10.0
+cymem==2.0.5
+Cython==0.29.24
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958435052/work
+distlib==0.3.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0-py3-none-any.whl
+filelock==3.0.12
+future==0.18.2
+google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1629296548061/work
+google-auth-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/google-auth-oauthlib_1630497468950/work
+grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpcio_1624380494797/work
+idna==3.2
+idna-ssl @ file:///home/conda/feedstock_root/build_artifacts/idna_ssl_1602585794775/work
+immutables==0.16
+importlib-metadata==4.8.1
+importlib-resources==5.2.2
+Jinja2==3.0.1
+kiwisolver==1.3.1
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
+MarkupSafe==2.0.1
+matplotlib==3.3.4
+multidict @ file:///home/conda/feedstock_root/build_artifacts/multidict_1610318996309/work
+murmurhash==1.0.5
+numpy==1.19.5
+oauthlib @ file:///home/conda/feedstock_root/build_artifacts/oauthlib_1622563202229/work
+packaging==21.0
+pandas==1.1.5
+pathy==0.6.0
+Pillow==8.3.2
+platformdirs==2.3.0
+preshed==3.0.5
+protobuf==3.17.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycocoevalcap==1.2
+pycocotools==2.0.2
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pydantic==1.8.2
+PyJWT @ file:///home/conda/feedstock_root/build_artifacts/pyjwt_1619620644068/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1610291458349/work
+python-dateutil==2.8.2
+pytz==2021.1
+pyu2f @ file:///home/conda/feedstock_root/build_artifacts/pyu2f_1604248910016/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
+requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1595492159598/work
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
+six==1.16.0
+smart-open==5.2.1
+spacy==3.1.2
+spacy-legacy==3.0.8
+srsly==2.4.1
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1629677129676/work/tensorboard-2.6.0-py3-none-any.whl
+tensorboard-data-server @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-data-server_1622834966909/work/tensorboard_data_server-0.6.0-py3-none-manylinux2010_x86_64.whl
+tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1611075653546/work/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
+thinc==8.0.9
+torch==1.9.0+cu111
+torch-tb-profiler==0.2.1
+torchaudio==0.9.0
+torchtext==0.10.0
+torchvision==0.10.0+cu111
+tqdm==4.62.2
+typer==0.3.2
+typing-extensions==3.10.0.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work
+virtualenv==20.7.2
+virtualenv-clone==0.5.6
+wasabi==0.8.2
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+yarl @ file:///home/conda/feedstock_root/build_artifacts/yarl_1625232870338/work
+zipp==3.5.0
